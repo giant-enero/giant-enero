@@ -1,4 +1,26 @@
-## Hi there 👋
+## giant-enero
+Hello, I'm Gian 👋
+
+  👩🏽‍💻 BS Computer Science Student
+
+## Currently Learning
+  - C Programming
+  - Python
+  - Git & GitHub
+  - HTML & CSS
+
+## Goals
+- Building useful software
+- Learn Data Structure & Algorithms
+- Develop games and web application
+- Contribute to open source
+
+## Tech Stack
+  - C
+  - Python
+  - HTML
+  - CSS
+  - Git
 
 <!--
 **giant-enero/giant-enero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
